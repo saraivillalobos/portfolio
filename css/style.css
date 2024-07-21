@@ -567,6 +567,7 @@ MOBILE PORTFOLIO - INDEX
     .portfolio-2__row {
         display: flex;
         flex-direction: column;
+        margin: 0;
     }
 }
 
